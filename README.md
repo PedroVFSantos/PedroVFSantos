@@ -59,7 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PedroVFSantos/PedroVFSantos/output/snake.svg" alt="Snake animation" />
-
-###
