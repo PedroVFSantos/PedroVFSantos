@@ -6,6 +6,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRiMm14YzI0d2V0Ym9qdGd5ajFpMXBuanNwdnE1MjgzNjB4djcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAOjunY81Trjy/200.webp"  />
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -25,6 +31,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Stats</h2>
 
