@@ -88,7 +88,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/pedro.vinicius298">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count=5"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count={5}"  />
   </a>
 </div>
 
