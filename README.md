@@ -1,15 +1,8 @@
-<h2 align="left">About Me!!</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left"> 🎓 Bachelor student in Computer Science (UFSCAR)<br>
-💻 C++ Developer
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
+<p align="left">🎓 Bachelor student in Computer Science (UFSCAR)<br>💻 C++ Developer</p>
 
 ###
 
@@ -29,7 +22,17 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
 
 ###
 
@@ -78,6 +81,14 @@
   </a>
   <a href="https://x.com/PedroVi31009835" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/pedro.vinicius298">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
