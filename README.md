@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- Bachelor student in Computer Science (UFSCAR)<br>- C++ Developer</p>
+<p align="left">- 🎓 **Bachelor student in Computer Science (UFSCAR)**  
+💻 **C++ Developer** 
 
 ###
 
