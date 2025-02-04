@@ -47,8 +47,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=nord&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,7 +56,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="380" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=nord&area=true&order=5&hide_border=false&hide_title=true" height="380" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=panda&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
