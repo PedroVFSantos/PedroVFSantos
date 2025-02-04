@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/pedro.vinicius298">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count=5&unique=false" 
          alt="🎵 Spotify" />
