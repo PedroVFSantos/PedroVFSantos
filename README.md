@@ -65,8 +65,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=panda&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="153" alt="streak graph"  />
 </div>
 
 ###
