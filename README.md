@@ -86,19 +86,8 @@
 
 ###
 
-# Spotify Now Playing
-
-## Demonstração
-
-[![Spotify](https://pedro.vinicius298.vercel.app/api/spotify)](https://open.spotify.com/user/pedro.vinicius298)
-
-## Personalização
-
-### Badge do Readme
-
-Copie e cole no seu README, substituindo `pedro.vinicius298` pelo seu username:
-
-```markdown
-[![Spotify](https://pedro.vinicius298.vercel.app/api/spotify)](https://open.spotify.com/user/pedro.vinicius298)
+<div align="center">
+  <img src="https://v0-new-project-3wmg1iaqipc.vercel.app/?theme=dark&spin=true" alt="Widget with the current Spotify song"  />
+</div>
 
 ###
