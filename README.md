@@ -6,6 +6,16 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/pedro.vinicius298">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -82,12 +92,6 @@
   <a href="https://x.com/PedroVi31009835" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://developer.spotify.com/dashboard/731ed619b18a47b7bc07fd82285f5310?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
