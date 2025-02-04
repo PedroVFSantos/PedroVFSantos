@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="prj_WUxs6b5AGczxe0ynshWeN2ccjWxl?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="https://developer.spotify.com/dashboard/731ed619b18a47b7bc07fd82285f5310?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
