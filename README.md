@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=nord&hide_border=false&order=2" height="200" alt="languages graph"  />
