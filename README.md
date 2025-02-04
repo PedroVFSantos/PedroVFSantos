@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="v0-new-project-3wmg1iaqipc.vercel.app?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="prj_WUxs6b5AGczxe0ynshWeN2ccjWxl?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
