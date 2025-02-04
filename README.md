@@ -51,8 +51,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=nord&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
