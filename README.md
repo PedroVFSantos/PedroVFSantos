@@ -6,9 +6,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Techs</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -32,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
 
 ###
 
@@ -83,9 +87,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroVFSantos/PedroVFSantos/output/snake.svg" alt="Snake animation" />
 
 ###
