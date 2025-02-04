@@ -6,17 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/pedro.vinicius298">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro.vinicius298&count=5&unique=false" 
-         alt="🎵 Spotify" />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -94,5 +83,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/PedroVFSantos/PedroVFSantos/output/snake.svg" alt="Snake animation" />
 
 ###
