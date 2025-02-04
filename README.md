@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor student in Computer Science (UFSCAR)<br>💻 C++ Developer</p>
+<p align="left">🎓 Bachelor student in Computer Science (UFSCAR)</p>
 
 ###
 
@@ -15,21 +15,23 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="42" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="flutter logo"  />
 </div>
 
 ###
@@ -39,8 +41,6 @@
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Stats</h2>
 
@@ -52,6 +52,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
