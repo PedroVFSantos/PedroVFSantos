@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
+<img align="left" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
 
 ###
 
@@ -29,11 +29,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="42" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="androidstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" alt="dart logo"  />
 </div>
 
 ###
@@ -45,14 +43,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=nord&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -62,7 +60,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=10&order=3" height="156" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="156" alt="streak graph"  />
 </div>
 
 ###
