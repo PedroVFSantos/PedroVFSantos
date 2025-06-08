@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Zjg0ZzNib205NWE3cnA0azVnazY5eGRlZXZwOGV0aWp5MHE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.webp"  />
+<img align="left" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc0ZHN1OXhwczJoZzA1YmZmNWd4YWVibng5eDNraDFqNXNycHg1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nhw1FwkchB2cIozD12/giphy.gif"  />
 
 ###
 
@@ -17,21 +17,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
 </div>
 
 ###
