@@ -63,6 +63,18 @@
 
 ###
 
+<h2 align="left">Vibes</h2>
+
+###
+
+<div align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Social Media</h2>
 
 ###
@@ -74,7 +86,7 @@
   <a href="https://www.instagram.com/p.vinifs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="pedro.vinicius298@gmail.com" target="_blank">
+  <a href="mailto:pedro.vinicius298@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/PedroVi31009835" target="_blank">
