@@ -38,17 +38,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&hide_title=true&hide_rank=false&show_icons=true&theme=gruvbox&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroVFSantos&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=gruvbox&area=true&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
 </div>
