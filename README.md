@@ -36,6 +36,18 @@
 
 <br clear="both">
 
+<h2 align="left">Vibes</h2>
+
+###
+
+<div align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -59,18 +71,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=PedroVFSantos&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="156" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">Vibes</h2>
-
-###
-
-<div align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
-  </a>
 </div>
 
 ###
