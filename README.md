@@ -8,12 +8,14 @@
 
 ###
 
-<br clear="both">
+<img align="left"
+     height="220"
+     style="margin-right: 24px; margin-bottom: 16px;"
+     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JtaDc4MGd2OHhobnZhYzN0bWs3YWV6NGhucWRqZHRkcDhxajc2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.gif" />
 
-<img align="left" height="220" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JtaDc4MGd2OHhobnZhYzN0bWs3YWV6NGhucWRqZHRkcDhxajc2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.gif />
 
 ###
-
+<br><br>
 <h2 align="left">Techs</h2>
 
 ###
