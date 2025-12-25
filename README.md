@@ -26,27 +26,24 @@
 
 <br clear="both">
 
+
+###
 <h2 align="left">Vibes</h2>
 
-###
+<table>
+<tr>
+<td>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
-###
+</td>
+<td>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&radius=20&theme=gruvbox&area=true&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&theme=gruvbox&area=true&hide_border=false&hide_title=true" height="250"/>
 
-###
-
-<h2 align="left">Contributions</h2>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=PedroVFSantos&mode=daily&theme=gruvbox&hide_border=false&border_radius=10" height="156" alt="streak graph" />
-</div>
+</td>
+</tr>
+</table>
 
 ###
 
