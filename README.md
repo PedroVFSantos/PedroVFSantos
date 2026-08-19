@@ -25,24 +25,20 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,java,spring,mysql,py,dart,flutter,docker,linux" height="52"/>
 
-</div>
+<br/><br/>
 
-<br/>
+</div>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PedroVFSantos&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=161B22&title_color=A78BFA&icon_color=5CCFE6&text_color=FFFFFF&border_radius=10" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVFSantos&layout=compact&theme=gruvbox&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVFSantos&layout=compact&hide_title=false&hide_border=true&bg_color=161B22&title_color=A78BFA&text_color=FFFFFF&border_radius=10&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -52,31 +48,13 @@
 
 <h2 align="left">About Me</h2>
 
-<img align="left"
-     height="220"
-     style="margin-right: 24px; margin-bottom: 16px;"
-     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JtaDc4MGd2OHhobnZhYzN0bWs3YWV6NGhucWRqZHRkcDhxajc2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXeOgQvTWweG1hODif/giphy.gif" />
-
 Computer Science student at UFSCAR. I am currently interested in Systems Programming, Distributed Systems, and Big Data engineering.
 
-<br clear="both">
+<br/>
 
-<h2 align="left">Vibes</h2>
+<h2 align="left">Activity</h2>
 
-<table>
-<tr>
-<td width="45%">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pedro.vinicius298&redirect=true)
-
-</td>
-<td width="55%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&theme=gruvbox&area=true&hide_border=false&hide_title=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVFSantos&theme=react-dark&area=true&hide_border=true&hide_title=true" width="100%"/>
 
 <br/>
 
